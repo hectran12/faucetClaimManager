@@ -2,7 +2,7 @@
 Manage resources when claiming coins on a large quantity faucet
 <hr>
 <b>Adjust admin password in config.php</b><br>
-<pre><?php
+<pre>
 
 
     $passwordAdmin = '<your password admin>';
@@ -13,4 +13,4 @@ Manage resources when claiming coins on a large quantity faucet
     $username = 'root';
     $password_db = '';
     $dbName = 'claimcoin';
-?></pre>
+</pre>
