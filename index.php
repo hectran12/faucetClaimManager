@@ -35,7 +35,7 @@
                     <a class="nav-link" href="#site_claim" id="navFunction" data-content='site_claim'>Site-claim</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#statistics" id="navFunction" data-content='statistics'>Thống kê</a>
+                    <a class="nav-link" href="#statistics" id="navFunction" data-content='statistics'>Statistics</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#setting" id="navFunction" data-content='setting'>Setting</a>
